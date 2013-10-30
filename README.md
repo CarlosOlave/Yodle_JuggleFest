@@ -37,5 +37,5 @@ Solution
 If you read the puzzle carefully you will notice that it boils down to a stable marriage problem (SMP).  
 (http://en.wikipedia.org/wiki/Stable_marriage_problem)  
 
-Looking at the Gale-Shapley algorithm described in the link above, you can see that in order to solve JUGGLEFEST problem all we have to do is modified the algorithm to fit a more generalize version problem knows as the Hospital/Residency problem. Where the Hospital(s) are the circuits and the Resident(s) are the jugglers.  
+Looking at the Gale-Shapley algorithm described in the link above, you can see that in order to solve JUGGLEFEST problem all we have to do is modified the algorithm to fit a more generalize problem known as the Hospital/Residency problem. Where the Hospital(s) are the circuits and the Resident(s) are the jugglers.  
 (http://en.wikipedia.org/wiki/Hospital_resident#Matching_algorithm)  
